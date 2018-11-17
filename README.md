@@ -1,12 +1,12 @@
 # RASP_IP_REACH
 control your raspberry pi through the network, (private or public) using Python (CLIENT,SERVER)
 Project Remote reach raspberry chip using python:
-This is Ver.1.0
+,This is Ver.1.0
 
-The commands on the client should be done on the remote PC or another pi
-The commands on the server should be done on a raspberry pi
-Run the server to wait for client, run the client on the other side to establish a connection
-The client can do couple of commands to the server and the server reply, one such a kind command can be translated by the server as OS commands, such as reboot will be converted into “sudo reboot”
+,The commands on the client should be done on the remote PC or another pi
+,The commands on the server should be done on a raspberry pi
+,Run the server to wait for client, run the client on the other side to establish a connection
+,The client can send couple of commands to the server and the server reply, one such a kind command can be translated by the server as OS commands, such as reboot as it will be converted into “sudo reboot”, try make your own set of commands and fork me in so i can see what is the full potential of this.
 
 NOTES:
 on the server part, "to find the local IP address" section can be removed if any problems appear due to the system destro. 
