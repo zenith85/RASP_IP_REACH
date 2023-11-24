@@ -1,5 +1,5 @@
 # Remote Raspberry Pi Control using Python
-Project Logo is not available
+**Project Logo is not available**
 
 ## Overview
 This project enables you to control your Raspberry Pi over the network, whether it's a private or public connection. The implementation involves Python scripts for both the client and server sides.
@@ -8,17 +8,17 @@ This project enables you to control your Raspberry Pi over the network, whether 
 This documentation corresponds to Version 1.0 of the project.
 
 ## Usage
-###Client Side
+### Client Side
 Execute the following commands on the remote PC or another Raspberry Pi:
 
-#### bash
+#### **bash**
 python client.py
 This will establish a connection with the server.
 
-#### Server Side
+### Server Side
 Run the server script on your Raspberry Pi:
 
-#### bash
+#### **bash**
 python server.py
 The server will wait for a client to connect.
 
