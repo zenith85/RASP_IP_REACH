@@ -1,4 +1,4 @@
-# Remote Raspberry Pi Control using Python
+# Remote Raspberry Pi Control using Python (Academic Purposes)
 **Project Logo is not available**
 
 ## Overview
