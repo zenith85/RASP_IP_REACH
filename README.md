@@ -1,5 +1,6 @@
 # Remote Raspberry Pi Control using Python (Academic Purposes)
 **Project Logo is not available**
+**This is example for mustafa test**
 
 ## Overview
 This project enables you to control your Raspberry Pi over the network, whether it's a private or public connection. The implementation involves Python scripts for both the client and server sides.
